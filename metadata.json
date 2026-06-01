@@ -1,0 +1,6 @@
+{
+  "name": "Elenchus",
+  "description": "An AI thinking partner that engages deeply with any topic, challenges your perspective, and asks questions to push the conversation further.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
